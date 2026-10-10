@@ -1,0 +1,7 @@
+# Metadata for `fyne package` (macOS .app, Windows .exe icon, Linux tarball).
+[Details]
+Icon = "Icon.png"
+Name = "Conversor"
+ID = "io.github.matiaspineda.conversor"
+Version = "1.0.0"
+Build = 1
